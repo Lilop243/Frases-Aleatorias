@@ -24,14 +24,15 @@ p {
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: lightgreen;
+    background-color: rgb(227, 210, 247)
 }
 
 #quote-box {
     width: 450px;
     padding: 40px;
     border-radius: 10px;
-    background-color: #ffffff;
+    background: url(https://i.gifer.com/D7LA.gif);
+    color: #ffffff;
 }
 
 .actions {
@@ -41,8 +42,8 @@ p {
 
 .main .button,
 #tweet-quote{
-    background-color: lightgreen;
-    border-color: lightgreen;
+    background-color: rgb(16, 17, 16);
+    border-color: rgb(146, 12, 241);
     display: inline-blick;
     border-radius: 5px;
     padding: 5px 10px;
